@@ -1,4 +1,7 @@
 flask
 flask-cors
 ultralytics
-opencv-python-headless
+opencv-python
+numpy
+pillow
+gunicorn  # Required for Render deployment
